@@ -1,0 +1,2 @@
+\beamer@sectionintoc {1}{Goal}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Order and Disorder: Some Typical Phenomena}{3}{0}{1}
